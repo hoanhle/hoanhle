@@ -1,7 +1,7 @@
-Hi, I'm Hoanh. I like building cool stuff with smart people.
+Hi, I'm Hoanh. I like working with smart people on problems that matter.
 
 My background is a ML/AI Engineer with 5+ years of experience in computer vision, specializing in bringing real-time ML products to production.
-I'm currently working at an [A.I unicorn](https://www.scandit.com/) in Zurich, Switzerland, under [Lukas Bossard](https://www.linkedin.com/in/lukas-bossard/) (prev [Luis Haug](https://www.linkedin.com/in/luis-haug/), [Mattia Desana](https://www.linkedin.com/in/mattia-desana-a475a660/)). When not at work, I ideally like to spend on my research in [Deep Learning Research group](https://research.cs.aalto.fi/bayes/) under the supervision of [Sam Spilsbury](https://www.sspilsbury.com/research/).
+I'm currently working at an [A.I unicorn](https://www.scandit.com/) in Zurich, Switzerland, under [Lukas Bossard](https://www.linkedin.com/in/lukas-bossard/) (prev [Luis Haug](https://www.linkedin.com/in/luis-haug/), [Mattia Desana](https://www.linkedin.com/in/mattia-desana-a475a660/)). When not at work, I spend time on my research under the supervision of [Jaakko Lehtinen](https://users.aalto.fi/~lehtinj7/) and [Erik Härkönen](https://scholar.google.com/citations?user=avCEoT8AAAAJ&hl=en).
 
 At [Aalto University](https://www.aalto.fi/en), I'm pursuing my master's in Machine Learning, Data Science, and Artificial Intelligence with a minor in Financial Engineering. You can check out my talk [here](https://docs.google.com/presentation/d/14J_zoI--lvcYtJH-wSM1QD56NLlm9mbt/edit#slide=id.g277ae8fd007_0_14). I completed my bachelor's thesis on studying the effect of Spatial Transformation Network within PointNet at the [Computer Vision lab in Tampere University](https://research.tuni.fi/vision/), where I provided empirical evidence that it doesn't work, under the supervision of [Joni-Kristian Kämäräinen](https://webpages.tuni.fi/vision/public_pages/JoniKamarainen/index.html).
 
