@@ -1,1 +1,1 @@
-Hi, I'm [Hoanh](https://hoanhle.github.io/). I like building cool stuffs with smart people. :star:
+Hi, I'm [Hoanh](https://hoanhle.github.io/).  I like to make awesome things with people that care. :star:
