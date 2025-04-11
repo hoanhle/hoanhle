@@ -1,3 +1,3 @@
 Hi, I'm [Hoanh](https://hoanhle.github.io/).  I like to make awesome things with people that care. :star:
 
-![S119045_0021](https://github.com/user-attachments/assets/0ce17040-c383-473b-b6fb-5f47082ce57a)
+![IMG_7265](https://github.com/user-attachments/assets/b068f023-bb79-46f7-9f88-70483ba9a251)
